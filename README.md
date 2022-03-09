@@ -7,8 +7,8 @@ We are required to build a regression model using regularisation in order to pre
 and decide whether to invest in them or not. 
 
 The company wants to know:
--> Which variables are significant in predicting the price of a house, and
--> How well those variables describe the price of a house.
+1. Which variables are significant in predicting the price of a house
+2.  How well those variables describe the price of a house.
 
 
 # Problem Solving Methodology :
