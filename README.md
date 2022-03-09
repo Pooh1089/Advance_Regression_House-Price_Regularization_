@@ -22,13 +22,13 @@ The company wants to know:
   
  ## Conclusion :
  The variables which are significant in predicting the price of a house are :
-    -LotFrontage : If the house Linear feet of street connected to property area increase then the Sales Price increase.
-    -BsmtFullBath : : If the BsmtFullBath area is more the SalePrice is higher
-    -Overall Condition: If the Overall Condition is Excellent the SalePrice is higher
-    -CentralAir: If the CentralAir is Yes the SalePrice is higher
-    -Overall quality: If the Overall Condition is Excellent the SalePrice is higher
-    -MSZoning_RH : If the house is near residential area then the SalePrice is higher
-    -Exterior1st_CBlock : IF the house Exterior1st is CBlock then price is less.
+  1. LotFrontage : If the house Linear feet of street connected to property area increase then the Sales Price increase.
+  2. BsmtFullBath : : If the BsmtFullBath area is more the SalePrice is higher
+  3. Overall Condition: If the Overall Condition is Excellent the SalePrice is higher
+  4. CentralAir: If the CentralAir is Yes the SalePrice is higher
+  5. Overall quality: If the Overall Condition is Excellent the SalePrice is higher
+  6. MSZoning_RH : If the house is near residential area then the SalePrice is higher
+  7. Exterior1st_CBlock : IF the house Exterior1st is CBlock then price is less.
 
 
 These variable coefficients tells how well they describe the price of the house. 
